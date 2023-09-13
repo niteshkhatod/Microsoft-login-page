@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(212, 214, 214, 0.694);
+}
+.abcd{
+    height: 320px;
+    width: 450px;
+    background-color: white;
+    margin-top: 150px;
+    margin-left: 500px;  
+}
+.abcd img {
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+.abcd h3,input,p,a { 
+    margin-left: 50px;
+}
+.abcd button {
+    height: 30px;
+    width: 100px;
+    border: none;
+    background-color: rgb(79, 79, 228);
+}
+.abcd input {
+    height: 20px;
+    width: 300px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.abcd a:hover {
+    color: grey;
+    border-bottom: 1px solid black;
+}
+.abcd a {
+    text-decoration: none;
+}
+.abcd h3 {
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
